@@ -2,4 +2,4 @@
 
 ## How to use
 
-- npx skills add https://github.com/codingthailand/my-agent-skills
+npx skills add https://github.com/codingthailand/my-agent-skills
